@@ -1,0 +1,1 @@
+Pure add a EC2

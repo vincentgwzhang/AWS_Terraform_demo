@@ -1,0 +1,1 @@
+使用 module 来创建 segurity group, 和创建 EC2, 而不是使用 resource
